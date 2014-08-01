@@ -1,5 +1,4 @@
 test-repo
 =========
- hey yp
 
-okok
+This is test repo for github/hit playground.
