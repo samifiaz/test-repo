@@ -1,0 +1,15 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Sami at install stage
+  pre_build:
+    commands:
+      - echo Sami at pre pre_build stage
+  build:
+    commands:
+      - echo Sami at build stage
+  post_build:
+    command:
+      - echo Sami at Post build stage
